@@ -6,7 +6,11 @@ To run this application on VSCode simply go to Run and click either Start Debugg
 Distribution of Tasks Among Team Members
 
 Team Member Tasks
+
 Michael     Project Requirements of at least five requirements
+
 Mobeen      Use Cases of at least three use cases
+
 Nievethan   Test Case Design Table
+
 Emmanuel    Design, Code and README file
