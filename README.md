@@ -7,10 +7,10 @@ Distribution of Tasks Among Team Members
 
 Team Member Tasks
 
-Michael            Project Requirements of at least five requirements
+Michael    -        Project Requirements of at least five requirements
 
-Mobeen             Use Cases of at least three use cases
+Mobeen     -        Use Cases of at least three use cases
 
-Nievethan           Test Case Design Table
+Nievethan     -      Test Case Design Table
 
-Emmanuel          Design, Code and README file
+Emmanuel      -    Design, Code and README file
